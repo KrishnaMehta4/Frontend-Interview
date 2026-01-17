@@ -117,6 +117,18 @@
       "date": "2025-12-10T16:30:00.000Z",
       "coverImage": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg",
       "content": "Ethics form the backbone of trust in financial systems. With increased automation and complex instruments, ethical judgment plays a crucial role in decision-making. Short-term gains achieved through unethical practices often lead to long-term damage.\n\nProfessionals must prioritize transparency, integrity, and accountability. Strong ethical frameworks protect not only clients but also the credibility of the profession.\n\nIn an era of rapid change, ethics remain a constant guiding principle."
+    },
+    {
+      "id": "a879",
+      "title": "My First React Query Blog",
+      "description": "Testing create blog feature using TanStack Query",
+      "content": "This blog was created using a controlled form and React Query mutation.\n",
+      "category": [
+        "TECH",
+        "REACT"
+      ],
+      "date": "2026-01-17T14:00:58.503Z",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg"
     }
   ]
 }
